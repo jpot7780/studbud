@@ -1,0 +1,24 @@
+{
+  "name": "studbud",
+  "version": "1.0.0",
+  "description": "Useful study tool for students ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jpot7780/studbud.git"
+  },
+  "keywords": [
+    "study",
+    "online",
+    "help"
+  ],
+  "author": "Jessie Potter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jpot7780/studbud/issues"
+  },
+  "homepage": "https://github.com/jpot7780/studbud#readme"
+}
