@@ -20,5 +20,14 @@
   "bugs": {
     "url": "https://github.com/jpot7780/studbud/issues"
   },
-  "homepage": "https://github.com/jpot7780/studbud#readme"
+  "homepage": "https://github.com/jpot7780/studbud#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  }
+
 }
